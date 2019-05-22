@@ -1,0 +1,1 @@
+web: gunicorn skillsfund.wsgi --log-file -
