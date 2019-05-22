@@ -38,7 +38,7 @@ SECRET_KEY = 'be%cpyq)+x53=j4ut8y4xakn)bw=po!$90^zb!s#tjf82re+w1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['skillsfund.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['carsley-chambers.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
