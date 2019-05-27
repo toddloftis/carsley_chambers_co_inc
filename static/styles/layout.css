@@ -418,5 +418,10 @@ table a, #comments a{background-color:inherit;}
 }
 
 .slide1{
-	background-image:url('../images/demo/backgrounds/01.png');
+	background-image:url('../images/slider-background-1-1220x531.jpg');
+}
+
+.footerbg{
+	background-color: #161616;
+	/* background-image:url('../images/demo/backgrounds/03.png'); */
 }
